@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: daa0f77b8ac3330459ef1da43e078188
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -58541210944388348
+    second: postbook sprites_0
+  - first:
+      213: -273102131254644820
+    second: postbook sprites_1
+  - first:
+      213: 8122489103434421786
+    second: postbook sprites_2
+  - first:
+      213: 1819713794896521115
+    second: postbook sprites_3
+  - first:
+      213: -100965943074164713
+    second: postbook sprites_4
+  - first:
+      213: -7505077705657208619
+    second: postbook sprites_5
+  - first:
+      213: -8780424089864509249
+    second: postbook sprites_6
+  - first:
+      213: -7253962479767903835
+    second: postbook sprites_7
+  - first:
+      213: 7542525756989550432
+    second: postbook sprites_8
+  - first:
+      213: -5562087033312718251
+    second: postbook sprites_9
+  - first:
+      213: 3818525794271712453
+    second: postbook sprites_10
+  - first:
+      213: 6610630687980614902
+    second: postbook sprites_11
+  - first:
+      213: 8179738454958052594
+    second: postbook sprites_12
+  - first:
+      213: 1180767285797043859
+    second: postbook sprites_13
+  - first:
+      213: 4109442205930322268
+    second: postbook sprites_14
+  - first:
+      213: 1595189585975972742
+    second: postbook sprites_15
+  - first:
+      213: -3980516743708382319
+    second: postbook sprites_16
+  - first:
+      213: -8231834230244563201
+    second: postbook sprites_17
+  - first:
+      213: 1599031060784975223
+    second: postbook barra do nome
+  - first:
+      213: -3036101990725401776
+    second: postbook comentarios
+  - first:
+      213: -4986919103767177145
+    second: postbook sprites_20
+  - first:
+      213: -3109569063991262906
+    second: postbook sprites_21
+  - first:
+      213: 4102483955813099813
+    second: postbook sprites_22
+  - first:
+      213: -4546757357533888874
+    second: postbook sprites_23
+  - first:
+      213: 432495705760547887
+    second: postbook sprites_24
+  - first:
+      213: -5084062892801243131
+    second: postbook sprites_25
+  - first:
+      213: 5398387588456476867
+    second: postbook sprites_26
+  - first:
+      213: -5099942553049403597
+    second: postbook sprites_27
+  - first:
+      213: 4848486749032013925
+    second: postbook sprites_28
+  - first:
+      213: -1709476168705709214
+    second: postbook sprites_29
+  - first:
+      213: 1553409756390595466
+    second: postbook sprites_30
+  - first:
+      213: -5228393490188370803
+    second: postbook sprites_31
+  - first:
+      213: 8330941704531178625
+    second: postbook sprites_32
+  - first:
+      213: -8562569153493110855
+    second: postbook sprites_33
+  - first:
+      213: 5442667529151971365
+    second: postbook sprites_34
+  - first:
+      213: 472764675356267726
+    second: postbook sprites_35
+  - first:
+      213: 8005140497074979317
+    second: postbook sprites_36
+  - first:
+      213: -503261802760188165
+    second: postbook sprites_37
+  - first:
+      213: -7528232876164931478
+    second: postbook sprites_38
+  - first:
+      213: 7870924624469610749
+    second: postbook sprites_39
+  - first:
+      213: -896810135509495955
+    second: postbook sprites_40
+  - first:
+      213: 3309539005926143993
+    second: postbook sprites_41
+  - first:
+      213: 6494869455542327367
+    second: postbook sprites_42
+  - first:
+      213: 3821852237916901386
+    second: postbook sprites_43
+  - first:
+      213: -5756585420891884204
+    second: postbook sprites_44
+  - first:
+      213: -6490419406531459823
+    second: postbook sprites_45
+  - first:
+      213: -5445596074495320808
+    second: postbook sprites_46
+  - first:
+      213: -5709599863171895106
+    second: postbook sprites_47
+  - first:
+      213: -8479459810159661537
+    second: postbook sprites_48
+  - first:
+      213: 7056225512128989566
+    second: postbook sprites_49
+  - first:
+      213: 4262721938148684017
+    second: postbook sprites_50
+  - first:
+      213: 5468775455262191680
+    second: postbook sprites_51
+  - first:
+      213: -1884531068608496992
+    second: postbook sprites_52
+  - first:
+      213: -622050129859607313
+    second: postbook sprites_53
+  - first:
+      213: 5886867681187455271
+    second: postbook sprites_54
+  - first:
+      213: -5991075684921831313
+    second: postbook sprites_55
+  - first:
+      213: 2975424601985830325
+    second: postbook sprites_56
+  - first:
+      213: 8521282466985592919
+    second: postbook sprites_57
+  - first:
+      213: 3841382446161560367
+    second: postbook sprites_58
+  - first:
+      213: 8285796163673645713
+    second: postbook sprites_59
+  - first:
+      213: 6905196315435009489
+    second: postbook sprites_60
+  - first:
+      213: 8579626084125099369
+    second: postbook sprites_61
+  - first:
+      213: 7039514850694815875
+    second: postbook box de notificacao
+  - first:
+      213: -1634097750736551936
+    second: postbook sprites_63
+  - first:
+      213: 1742248122048337172
+    second: postbook sprites_0
+  - first:
+      213: 7134612452996469559
+    second: postbook sprites_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: postbook barra do nome
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1776
+        width: 1083
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d87ea1746e03610800000000000000
+      internalID: 1599031060784975223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook comentarios
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1776
+        width: 1083
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053c4fc43599dd5d0800000000000000
+      internalID: -3036101990725401776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1679
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74819583f77eacab0800000000000000
+      internalID: -4986919103767177145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1677
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641c148596798d4d0800000000000000
+      internalID: -3109569063991262906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_22
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1682
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529aaf20c63fee830800000000000000
+      internalID: 4102483955813099813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_23
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1673
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e7c48e54ca6e0c0800000000000000
+      internalID: -4546757357533888874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1682
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f244dbc8d88800600800000000000000
+      internalID: 432495705760547887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1683
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50846da4cb7c179b0800000000000000
+      internalID: -5084062892801243131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_28
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1601
+        width: 394
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560ed368209494340800000000000000
+      internalID: 4848486749032013925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_29
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1601
+        width: 394
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bec445b78b648e0800000000000000
+      internalID: -1709476168705709214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_36
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 518
+        width: 979
+        height: 978
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f18f397ed8f71f60800000000000000
+      internalID: 8005140497074979317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_37
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1279
+        width: 1083
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfec4798e0e0409f0800000000000000
+      internalID: -503261802760188165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_42
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1142
+        width: 1083
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7489228cb59622a50800000000000000
+      internalID: 6494869455542327367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_46
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1002
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dd175e83b5d64b0800000000000000
+      internalID: -5445596074495320808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_47
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1019
+        width: 235
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0350adc2d63c0b0800000000000000
+      internalID: -5709599863171895106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 923
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e6b309a38e25a80800000000000000
+      internalID: -8479459810159661537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 667
+        width: 573
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc25939e4da4920800000000000000
+      internalID: 2975424601985830325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_57
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 443
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c07b814da14670800000000000000
+      internalID: 8521282466985592919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 443
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2381e57bf45f4530800000000000000
+      internalID: 3841382446161560367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook box de notificacao
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 138
+        width: 1084
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38060c2b57161b160800000000000000
+      internalID: 7039514850694815875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1491
+        width: 173
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1690360ec0e8b070800000000000000
+      internalID: 8122489103434421786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1491
+        width: 168
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b976fa12e0ce04910800000000000000
+      internalID: 1819713794896521115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_4
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1491
+        width: 175
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f6ac720c499ef0800000000000000
+      internalID: -100965943074164713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1491
+        width: 171
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0399e179b98d790800000000000000
+      internalID: -7505077705657208619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1014
+        width: 257
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4155849af65bd2810800000000000000
+      internalID: 1742248122048337172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: postbook sprites_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 826
+        width: 249
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733dee6a93c330360800000000000000
+      internalID: 7134612452996469559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

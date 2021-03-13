@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Galeria Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ed2705ef58c5a944dac4bb18fb473bda, type: 3}
+    - {fileID: 102900000, guid: d3870e924da072348a0b9fd26da0537b, type: 3}
+    - {fileID: 102900000, guid: 542d416edf7caec428c6c05f672cce29, type: 3}
+    - {fileID: 2800000, guid: 2957300a4e2d07b42a0073b00d7fb78b, type: 3}
+    totalSpriteSurfaceArea: 60581862
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 812a1740ec1abd849a236c6f1863da3b, type: 3}
+  - {fileID: 21300000, guid: 6f157ce027ce017468694a6a02f9c1cd, type: 3}
+  - {fileID: 21300000, guid: a630c6111a4829c469da1d1c10641227, type: 3}
+  - {fileID: 21300000, guid: cf5880310d310df4e8dc82c336b22c0d, type: 3}
+  - {fileID: 21300000, guid: 37fbe351ce3b35b4fb0ae87ff5b85f29, type: 3}
+  - {fileID: 21300000, guid: fb41e881fa4c436409bdf283cd4f6e08, type: 3}
+  - {fileID: 21300000, guid: 59943491d350fd2469b13087d493d8ff, type: 3}
+  - {fileID: 21300000, guid: 4cfe3ab102af1b24ab968c8cad230740, type: 3}
+  - {fileID: 21300000, guid: 1e050fc157ed99c489232c76f0e993aa, type: 3}
+  - {fileID: 21300000, guid: 48f374f1db396d14c85041ae93b72673, type: 3}
+  - {fileID: 21300000, guid: bab88042238563f4898db767663b5bc9, type: 3}
+  - {fileID: 21300000, guid: ed9a1452118e26e4780d102a0e178dff, type: 3}
+  - {fileID: 21300000, guid: f327f462c75f45a40ad9001e08e8b04d, type: 3}
+  - {fileID: 21300000, guid: 0d2d20820b29ca14684510ef948f62f1, type: 3}
+  - {fileID: 21300000, guid: 5ed460e2c7aeed44b8a4d95e187aeb9e, type: 3}
+  - {fileID: 21300000, guid: 84447c53e367f4949b50f27e7a86f9c6, type: 3}
+  - {fileID: 21300000, guid: 21291b634827cfe448ac41430a73a09c, type: 3}
+  - {fileID: 21300000, guid: 0bc5ce93f691a044bb56f7ea3e4157f0, type: 3}
+  - {fileID: 21300000, guid: a117a5e3aa3e4a946aad82e92e597e60, type: 3}
+  - {fileID: 21300000, guid: b848a5f31bc39914191597dac66eaf10, type: 3}
+  - {fileID: 21300000, guid: 297e8354e484d314daa2f01a6c45df97, type: 3}
+  - {fileID: 21300000, guid: ac88818491306fe43b007ae0e299fb66, type: 3}
+  - {fileID: 21300000, guid: 19bd0284ed67bcf458195d381acbdfe7, type: 3}
+  - {fileID: 21300000, guid: 8ab4749428dd625438a32a70e4d3aa0b, type: 3}
+  - {fileID: 21300000, guid: 99ad5bf425fd2ac44a92b287261c6669, type: 3}
+  - {fileID: 21300000, guid: af43e165c0a56f34fb099eb637148a1c, type: 3}
+  - {fileID: 21300000, guid: 0d5310859faf50d45aed6151b5e20512, type: 3}
+  - {fileID: 21300000, guid: 6c51169510ff01b49bd5c828575f0952, type: 3}
+  - {fileID: 21300000, guid: 0b4eaca5d41c31d48808dade07efc52b, type: 3}
+  - {fileID: 21300000, guid: 28dd3ed54b8b38f49bd160a7a9476002, type: 3}
+  - {fileID: 21300000, guid: 053a7846a8fa5564ea1b3c73cac3dfda, type: 3}
+  - {fileID: 21300000, guid: 07b853567b3ae9a4a9482455e7494457, type: 3}
+  - {fileID: 21300000, guid: 2c6c86a608958b647bc053559dfe0a65, type: 3}
+  - {fileID: 21300000, guid: 20f7ab079e1ac3d4d88680e70fb4debd, type: 3}
+  - {fileID: 21300000, guid: 580f4ed7e7a3e6446b5597bc24adb8dd, type: 3}
+  - {fileID: 21300000, guid: 85d88668e59153b49b31abdda96871e5, type: 3}
+  - {fileID: 21300000, guid: 290a6e6832cc70e4397487e49234c04f, type: 3}
+  - {fileID: 21300000, guid: 1c5b8f78cf361a04aa2d3522fadfe215, type: 3}
+  - {fileID: 21300000, guid: 1b3d1fb858a1c384ea8bc6e190eb6844, type: 3}
+  - {fileID: 21300000, guid: 3cfa66e83444fa946b5d83297353f78f, type: 3}
+  - {fileID: 21300000, guid: ec48de0963131814d8a0ee9ad6f6e86d, type: 3}
+  - {fileID: 21300000, guid: 5aa6f8198d71f8645977b063a98ec6d4, type: 3}
+  - {fileID: 21300000, guid: ae4ed939bc778404cb9234a094dc1179, type: 3}
+  - {fileID: 21300000, guid: b8466c79d8c9bdc46a2cec804b27309d, type: 3}
+  - {fileID: 21300000, guid: d5f69bb9bbebdc44b942b9d56f965807, type: 3}
+  - {fileID: -8088441054349216958, guid: 2957300a4e2d07b42a0073b00d7fb78b, type: 3}
+  - {fileID: 4987967305471010922, guid: 2957300a4e2d07b42a0073b00d7fb78b, type: 3}
+  - {fileID: -7958335446757279026, guid: 2957300a4e2d07b42a0073b00d7fb78b, type: 3}
+  - {fileID: 3554083448278028606, guid: 2957300a4e2d07b42a0073b00d7fb78b, type: 3}
+  - {fileID: 8931348901966737615, guid: 2957300a4e2d07b42a0073b00d7fb78b, type: 3}
+  - {fileID: -5260236755026412055, guid: 2957300a4e2d07b42a0073b00d7fb78b, type: 3}
+  - {fileID: 21300000, guid: 126a020a8f9be9a4f8a534c214e1f6b8, type: 3}
+  - {fileID: 21300000, guid: d8f0691a5467bae488726abc6852bd74, type: 3}
+  - {fileID: 21300000, guid: a9c1f91a841a49c4cb2d65161971346c, type: 3}
+  - {fileID: 21300000, guid: 70ef7a9afd7472041852e6b71c19fbf4, type: 3}
+  - {fileID: 21300000, guid: d329c3fac4c047545901a1440a4b8ea7, type: 3}
+  - {fileID: 21300000, guid: f831d27b02b13724195cd4e41a31ef47, type: 3}
+  - {fileID: 21300000, guid: aecc648bd72d81945adb8281266d6676, type: 3}
+  - {fileID: 21300000, guid: ef6335ab4922c2948916e068f0e7555a, type: 3}
+  - {fileID: 21300000, guid: c627b6db4a794d24b8bff5b0c517961d, type: 3}
+  - {fileID: 21300000, guid: 05cb290cc0bae134c9f4d64c8442c075, type: 3}
+  - {fileID: 21300000, guid: 5dcc5e0c2b52f1f4897bb35b5cc82dfe, type: 3}
+  - {fileID: 21300000, guid: 73cc854c80ee67a4397090c7a7a0b235, type: 3}
+  - {fileID: 21300000, guid: 497c526c22041da4abd817089c9035ac, type: 3}
+  - {fileID: 21300000, guid: c7e14cacd6f92254a91bf8c211d00c03, type: 3}
+  - {fileID: 21300000, guid: 56fbdadc44704974e992450e6643047e, type: 3}
+  - {fileID: 21300000, guid: 1398beec1e782724ab50eeef9d1f51dd, type: 3}
+  - {fileID: 21300000, guid: 16ae963d20df9544f84aeb232aae243e, type: 3}
+  - {fileID: 21300000, guid: d80138edd1406394abeea57de0f331e1, type: 3}
+  - {fileID: 21300000, guid: 6d6d65fd1e5151f4eb13b6c575a9cbd1, type: 3}
+  - {fileID: 21300000, guid: b6c9730e5bca0a348a26f2bab42794b0, type: 3}
+  - {fileID: 21300000, guid: 2082d80eced469f4fa2d9a060fcddb77, type: 3}
+  - {fileID: 21300000, guid: 04abda4e0acca224ca5b5ea17da1537d, type: 3}
+  - {fileID: 21300000, guid: c01b416e05415914a9ff617130d4d193, type: 3}
+  - {fileID: 21300000, guid: dd3906ceb06f241428e77ed9f955f346, type: 3}
+  - {fileID: 21300000, guid: d7eb5cee9f5d2da4480b679649d86605, type: 3}
+  - {fileID: 21300000, guid: 5918848fddef5d34c9e247f409d8671e, type: 3}
+  - {fileID: 21300000, guid: 11db598f231bb3b4b92efed1087b616e, type: 3}
+  - {fileID: 21300000, guid: 8c2bcdaf5bc93e848afbbc309177a54e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 27
+  - 24
+  - 75
+  - 102
+  - foto_bolo
+  - foto_flor
+  - fotos -tatuagi pinterest
+  - 78
+  - fotos - caixa
+  - sentadinha rosa
+  - 82
+  - foto_livro
+  - 26
+  - 76
+  - 22
+  - 10
+  - foto_nuvem
+  - matheus print
+  - fotos - copao na mao
+  - 4
+  - banheiro de levs
+  - 6
+  - foto_tatuagem
+  - foto_groot
+  - 99
+  - 81
+  - 83
+  - foto_antiga
+  - 98
+  - 72
+  - 118
+  - 103
+  - 3
+  - 105
+  - 51
+  - 115
+  - foto_serie
+  - 20
+  - 121
+  - festa_corrompida
+  - "fotos - vol\xE3o"
+  - fotos - mike wazowski
+  - foto_co40
+  - 7
+  - foto_cavalo
+  - galeria sprites_7
+  - galeria sprites_6
+  - galeria sprites_1
+  - galeria sprites_0
+  - galeria sprites_3
+  - galeria sprites_2
+  - foto_mapinha
+  - 119
+  - 122
+  - foto_motivacional1
+  - fotos - vestido
+  - foto_music
+  - 45
+  - 101
+  - print_monica
+  - 79
+  - gatinho
+  - foto_tenis
+  - 23
+  - 116
+  - print_matheus
+  - fotos - lua
+  - fotos - gelatina
+  - 9
+  - 49
+  - 43
+  - fotos -cogu
+  - fotos - monitor
+  - fotos - colar
+  - 1
+  - foto_aliens
+  - monica print
+  - fotos - abndera
+  - 73
+  m_Tag: Galeria Atlas
+  m_IsVariant: 0

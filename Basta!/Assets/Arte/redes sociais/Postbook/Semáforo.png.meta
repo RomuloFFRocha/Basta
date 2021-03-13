@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 8e8f8a0bccd2f1b4484568f5363defd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5936143982886410948
+    second: "Sem\xE1foro_0"
+  - first:
+      213: -8470617136181307135
+    second: "Sem\xE1foro_1"
+  - first:
+      213: -4352769892500436732
+    second: "Sem\xE1foro_2"
+  - first:
+      213: 6711907386503481017
+    second: "Sem\xE1foro_3"
+  - first:
+      213: 1099421199715979046
+    second: "Sem\xE1foro_4"
+  - first:
+      213: 1743613463714770755
+    second: "Sem\xE1foro_5"
+  - first:
+      213: -6600931425716556221
+    second: "Sem\xE1foro_6"
+  - first:
+      213: 8049493020253074980
+    second: "Sem\xE1foro_7"
+  - first:
+      213: 7701891497593663872
+    second: "Sem\xE1foro_8"
+  - first:
+      213: -4744767524723489930
+    second: "Sem\xE1foro_9"
+  - first:
+      213: -4361974879782021553
+    second: "Sem\xE1foro_10"
+  - first:
+      213: 6300025849546448216
+    second: "Sem\xE1foro_11"
+  - first:
+      213: -100462928787537370
+    second: "Sem\xE1foro_12"
+  - first:
+      213: -1628954812074927877
+    second: "Sem\xE1foro_13"
+  - first:
+      213: 5566934414843088143
+    second: "Sem\xE1foro_14"
+  - first:
+      213: 4833696744911455710
+    second: "Sem\xE1foro_15"
+  - first:
+      213: 7744342159450571389
+    second: "Sem\xE1foro_16"
+  - first:
+      213: -8308856047535980563
+    second: "Sem\xE1foro_17"
+  - first:
+      213: -4582063663461988111
+    second: "Sem\xE1foro_18"
+  - first:
+      213: 3827969191782378484
+    second: "Sem\xE1foro_19"
+  - first:
+      213: 7926506193601150344
+    second: "Sem\xE1foro_20"
+  - first:
+      213: -4852206453391425381
+    second: "Sem\xE1foro_21"
+  - first:
+      213: 1628491188721679896
+    second: "Sem\xE1foro_22"
+  - first:
+      213: 5198869599304341875
+    second: "Sem\xE1foro_23"
+  - first:
+      213: 7967054616439485981
+    second: "Sem\xE1foro_24"
+  - first:
+      213: -2345156733246606398
+    second: "Sem\xE1foro_25"
+  - first:
+      213: -5140420067682154586
+    second: "Sem\xE1foro_26"
+  - first:
+      213: -5618637752334258711
+    second: "Sem\xE1foro_27"
+  - first:
+      213: -2888261659119416611
+    second: "Sem\xE1foro_28"
+  - first:
+      213: 6960741901400675439
+    second: "Sem\xE1foro_29"
+  - first:
+      213: -8669566667897183508
+    second: "Sem\xE1foro_30"
+  - first:
+      213: 142659188009364474
+    second: "Sem\xE1foro_31"
+  - first:
+      213: -1603372805617103928
+    second: "Sem\xE1foro_32"
+  - first:
+      213: 5153026096783203167
+    second: "Sem\xE1foro_33"
+  - first:
+      213: 3363857691282435279
+    second: "Sem\xE1foro_34"
+  - first:
+      213: -3606801956427979628
+    second: "Sem\xE1foro_35"
+  - first:
+      213: 8346336862269187679
+    second: "Sem\xE1foro_36"
+  - first:
+      213: 6672333563904156041
+    second: "Sem\xE1foro_37"
+  - first:
+      213: 1439651510929626703
+    second: "Sem\xE1foro_38"
+  - first:
+      213: -6081446918132213810
+    second: "Sem\xE1foro_39"
+  - first:
+      213: -5347343654017425600
+    second: "Sem\xE1foro_40"
+  - first:
+      213: -8962790788337290291
+    second: "Sem\xE1foro_41"
+  - first:
+      213: 8974401514993573136
+    second: "Sem\xE1foro_42"
+  - first:
+      213: 7800895546967833168
+    second: "Sem\xE1foro_43"
+  - first:
+      213: -8452235469633634296
+    second: "Sem\xE1foro_44"
+  - first:
+      213: 4279111773913439727
+    second: "Sem\xE1foro_45"
+  - first:
+      213: -845160147452534157
+    second: "Sem\xE1foro_46"
+  - first:
+      213: -1003988127884325067
+    second: "Sem\xE1foro_47"
+  - first:
+      213: 57066111107263691
+    second: "Sem\xE1foro_48"
+  - first:
+      213: -6443954338935433637
+    second: "Sem\xE1foro_49"
+  - first:
+      213: 2650184266702879855
+    second: "Sem\xE1foro_50"
+  - first:
+      213: 5916430839481218589
+    second: "Sem\xE1foro_51"
+  - first:
+      213: -2479512332497161528
+    second: "Sem\xE1foro_52"
+  - first:
+      213: -6086092655491757880
+    second: "Sem\xE1foro_53"
+  - first:
+      213: -342478542371085670
+    second: "Sem\xE1foro_54"
+  - first:
+      213: 2210198742319084862
+    second: "Sem\xE1foro_55"
+  - first:
+      213: 6476521070980396380
+    second: "Sem\xE1foro_56"
+  - first:
+      213: -6972783160846795659
+    second: "Sem\xE1foro_57"
+  - first:
+      213: 4626717700113375300
+    second: "Sem\xE1foro_58"
+  - first:
+      213: 4585914761285767654
+    second: "Sem\xE1foro_59"
+  - first:
+      213: -6687243346525270982
+    second: "Sem\xE1foro_60"
+  - first:
+      213: -6481297983101338488
+    second: "Sem\xE1foro_61"
+  - first:
+      213: -5133481283413014658
+    second: "Sem\xE1foro_62"
+  - first:
+      213: 183756207687753500
+    second: "Sem\xE1foro_63"
+  - first:
+      213: -6489206024161236894
+    second: "Sem\xE1foro_64"
+  - first:
+      213: 372691964977716308
+    second: "Sem\xE1foro_65"
+  - first:
+      213: 8926224044928076870
+    second: "Sem\xE1foro_66"
+  - first:
+      213: -5972755329207636693
+    second: "Sem\xE1foro_67"
+  - first:
+      213: -6289431655970147572
+    second: "Sem\xE1foro_68"
+  - first:
+      213: -4141685098445626521
+    second: "Sem\xE1foro_69"
+  - first:
+      213: 4362889433796014931
+    second: "Sem\xE1foro_70"
+  - first:
+      213: -6994455207607016395
+    second: "Sem\xE1foro_71"
+  - first:
+      213: 2789918621663138413
+    second: "Sem\xE1foro_72"
+  - first:
+      213: 5484972053580410031
+    second: "Sem\xE1foro_73"
+  - first:
+      213: 6327721548633896926
+    second: "Sem\xE1foro_74"
+  - first:
+      213: 1267050351077554145
+    second: "Sem\xE1foro_75"
+  - first:
+      213: 3188800040382817858
+    second: "Sem\xE1foro_76"
+  - first:
+      213: -8817426118859179904
+    second: "Sem\xE1foro_77"
+  - first:
+      213: 3334140105529605251
+    second: "Sem\xE1foro_78"
+  - first:
+      213: 6974839308671030316
+    second: "Sem\xE1foro_79"
+  - first:
+      213: 1563198953805878845
+    second: "Sem\xE1foro_80"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sem\xE1foro_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ab74af749e9da0800000000000000
+      internalID: -5936143982886410948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem\xE1foro_1"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10993990892527a80800000000000000
+      internalID: -8470617136181307135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem\xE1foro_2"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4090f7048dad793c0800000000000000
+      internalID: -4352769892500436732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem\xE1foro_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b64cd1f43c752d50800000000000000
+      internalID: 6711907386503481017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem\xE1foro_4"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fca9391cde14f00800000000000000
+      internalID: 1099421199715979046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem\xE1foro_5"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fae4a053f823810800000000000000
+      internalID: 1743613463714770755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem\xE1foro_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea37f67d7c464a0800000000000000
+      internalID: -6600931425716556221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem\xE1foro_7"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426bb2ef04b85bf60800000000000000
+      internalID: 8049493020253074980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sem\xE1foro_8"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081fbacb28d92ea60800000000000000
+      internalID: 7701891497593663872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

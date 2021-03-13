@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zap Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a9139b7cae34e5d40bb0215545a08164, type: 3}
+    - {fileID: 2800000, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+    totalSpriteSurfaceArea: 8442849
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5abfcf4089e812a4794cecf425985653, type: 3}
+  - {fileID: 21300000, guid: 40d6dcb00fa99d746854df4fce9ab43d, type: 3}
+  - {fileID: 21300000, guid: a305c18200422234281afd29e5423338, type: 3}
+  - {fileID: 21300000, guid: eb0bb7a2203cdc64c8d6e975adfd0b76, type: 3}
+  - {fileID: 21300000, guid: 6b8e8be2e27ebc748808648bf1b3a714, type: 3}
+  - {fileID: 21300000, guid: eb95f4f233eac5d4cafc463af5717864, type: 3}
+  - {fileID: 21300000, guid: a05b46242ae3c774680ee59aee150e1f, type: 3}
+  - {fileID: -1136517354281327169, guid: c4c821c8e60de5440900cb619e882981, type: 3}
+  - {fileID: 5151170739510194232, guid: c4c821c8e60de5440900cb619e882981, type: 3}
+  - {fileID: 7381568191645270544, guid: c4c821c8e60de5440900cb619e882981, type: 3}
+  - {fileID: -497140677756176570, guid: c4c821c8e60de5440900cb619e882981, type: 3}
+  - {fileID: -1505851484456840485, guid: 0e88b15d41635eb4fbc0984694bdae8f, type: 3}
+  - {fileID: 21300000, guid: 8497cfddae2986f4591e57dc7206f69c, type: 3}
+  - {fileID: 7563547593382851759, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -3835367871965703519, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -9029975061530635402, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -1565377659215690321, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: 2643537148808217110, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -455681749541919976, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -5537926594451501892, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -3146820887880932586, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: 7284905550276256328, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: 1406004194571496636, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -3013352747921926286, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: 1567524486151768724, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: 6050062221941207336, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: 8201604461757147367, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -7448970768707837058, guid: 6cda859fdc6808f42b7e7a7c88884af4, type: 3}
+  - {fileID: -4698114676787162016, guid: acc1b4af1b6426b449cc9e15f0b02151, type: 3}
+  - {fileID: 5933413159670484396, guid: acc1b4af1b6426b449cc9e15f0b02151, type: 3}
+  - {fileID: -6866264833190753910, guid: acc1b4af1b6426b449cc9e15f0b02151, type: 3}
+  - {fileID: -399716057673172990, guid: acc1b4af1b6426b449cc9e15f0b02151, type: 3}
+  - {fileID: 21300000, guid: c5a6defff0b665044a99b131aaa2511a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - _cone_180
+  - outro2
+  - noticacao2
+  - planos de fundo - cleber (aka zap)
+  - outro1
+  - planos de fundo - inicial
+  - zapzap
+  - pngzapfinal_4
+  - pngzapfinal_5
+  - pngzapfinal_8
+  - pngzapfinal_9
+  - compartilhar-printar_1
+  - tela bloqueio
+  - zap sprites _1
+  - zap sprites _0
+  - zap sprites _7
+  - zap sprites _6
+  - zap sprites _5
+  - zap sprites _4
+  - zap sprites _9
+  - zap sprites _8
+  - zap sprites _14
+  - zap sprites _12
+  - zap sprites _13
+  - zap sprites _10
+  - zap sprites _11
+  - zap sprites _3
+  - zap sprites _2
+  - pnginsta_6
+  - pnginsta_3
+  - pnginsta_4
+  - pnginsta_5
+  - rosana
+  m_Tag: Zap Atlas
+  m_IsVariant: 0

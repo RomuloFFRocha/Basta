@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Config Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+    totalSpriteSurfaceArea: 820747
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1613584752372642817, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 6312927792756373934, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 6879633919803314397, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: -8514500110680154679, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 7394529440212220758, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: -2412351690514239139, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 2657133770381537205, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 6539252143178504719, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 3767803397366048750, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 8006833462873154602, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: -6794719722446537570, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 3570381785928813996, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 3984597424973032801, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: 8869155168263987248, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  - {fileID: -6554245641211352485, guid: d2640ff5d86d6294b9ffb33becce5380, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - configs sprites_22
+  - configs sprites_21
+  - configs sprites_20
+  - configs sprites_7
+  - configs sprites_6
+  - configs sprites_5
+  - configs sprites_4
+  - configs sprites_3
+  - configs sprites_2
+  - configs sprites_1
+  - configs sprites_0
+  - configs sprites_11
+  - configs sprites_16
+  - configs sprites_17
+  - configs sprites_15
+  m_Tag: Config Atlas
+  m_IsVariant: 0

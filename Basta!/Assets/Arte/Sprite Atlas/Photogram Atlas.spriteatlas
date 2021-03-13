@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Photogram Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 77d5eccce8aa0fa4ea3044aa4b8f0fdc, type: 3}
+    - {fileID: 2800000, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+    totalSpriteSurfaceArea: 27019098
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 6599016451570456186, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: 7321674308963477208, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: -8303349323289247374, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: 6466153961842008737, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: -4161290197596501437, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: -7387309209248111620, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: -4805905739711090054, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: 4742145167661054043, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: -487179710306978417, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: -7792296878639581436, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: 8683753871335171532, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: -1752793847907035196, guid: 98cf74413793f9643b7aee5b2c52ab7b, type: 3}
+  - {fileID: 21300000, guid: a179e232d882f594aa642aad8a5456b6, type: 3}
+  - {fileID: 21300000, guid: 4f659e32f81b8bd4aaded884589aab73, type: 3}
+  - {fileID: 21300000, guid: 88cbcc9277767064fb5136244746637f, type: 3}
+  - {fileID: 21300000, guid: 25b97c03433ae8c46a73df51834b2f80, type: 3}
+  - {fileID: 21300000, guid: 2278651424a926545be4820e6ebcb6f6, type: 3}
+  - {fileID: 21300000, guid: 92a0b86577a0dfc48bedc71321551792, type: 3}
+  - {fileID: 21300000, guid: b2fb2598a0775d74b9a1e6e99987b272, type: 3}
+  - {fileID: 21300000, guid: 51e8b8b8699f542479fba58a76954c39, type: 3}
+  - {fileID: 21300000, guid: 3fa59fe8b4e1f954a92ba634161abc0c, type: 3}
+  - {fileID: 21300000, guid: eeac7d897f0c6ee4aab4afe5f1f2102f, type: 3}
+  - {fileID: 21300000, guid: 7637470a125754446804b553bf5a3520, type: 3}
+  - {fileID: 21300000, guid: 947af1da9b214ae438c19a32e01dd398, type: 3}
+  - {fileID: 21300000, guid: 7288737d6e32a1344a47b33b62c17982, type: 3}
+  - {fileID: 21300000, guid: a47ecc2ea7345dd44a96136d29aa5f57, type: 3}
+  - {fileID: 21300000, guid: f049d24e15e50f74b810ab93c16f6f95, type: 3}
+  - {fileID: 21300000, guid: b1e1635f0616de44ca9848d94720ee49, type: 3}
+  - {fileID: 21300000, guid: 390679bf53582684cbafc18be47f39f0, type: 3}
+  - {fileID: 21300000, guid: 5bcf0bffd606d2a48a46077c23a122c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - photogram sprites_7
+  - photogram sprites_6
+  - photogram sprites_5
+  - photogram sprites_3
+  - photogram sprites_2
+  - photogram sprites_1
+  - photogram sprites_0
+  - photogram sprites_9
+  - photogram sprites_8
+  - photogram sprites_12
+  - photogram sprites_10
+  - photogram sprites_11
+  - stories - fast food
+  - Foto isso ai
+  - cafezininsta
+  - vista meo
+  - Foto guitarra
+  - logan
+  - catulu
+  - Foto amigos
+  - lanchininsta
+  - "Murilo de f\xE9rias"
+  - Fotos - Banda
+  - stories comida queimada
+  - dogzin
+  - breja 2
+  - breja 1
+  - breja 3
+  - "n\xE3o se cale"
+  - Fotos - Poster de Filme
+  m_Tag: Photogram Atlas
+  m_IsVariant: 0

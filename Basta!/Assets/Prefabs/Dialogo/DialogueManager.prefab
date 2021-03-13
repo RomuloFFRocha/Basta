@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9042366030740381077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2290592230458000186}
+  - component: {fileID: 5125409072756738913}
+  m_Layer: 0
+  m_Name: DialogueManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2290592230458000186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9042366030740381077}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 332.10007, y: 432.15002, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5125409072756738913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9042366030740381077}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e564c82538fe5274399f985700118d25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  haveDialogueMenu: 0
+  modelMessageHalfLine: {fileID: 5771300449076592504, guid: 51f30bef11ebcda458e854942df8dce2, type: 3}
+  modelMessageHalfLinePlayer: {fileID: 5882345863546251228, guid: ebdc0856abed8fc4ba9f8e754b11318d, type: 3}
+  modelMessageOneLine: {fileID: 5771300449076592504, guid: a963876be1231fc429aa6f2761dba517, type: 3}
+  modelMessageOneLinePlayer: {fileID: 5882345863546251228, guid: 940621651f6d35241ba30c707bda6eb9, type: 3}
+  modelMessageTwoLines: {fileID: 5771300449076592504, guid: 4375fe25a5215a441920aaf64152a844, type: 3}
+  modelMessageTwoLinesPlayer: {fileID: 5882345863546251228, guid: f788e9e2adbe965498d6f1bd278be9b8, type: 3}
+  modelMessageThreeLines: {fileID: 5771300449076592504, guid: 3335d63245907a7418112718c49216ae, type: 3}
+  modelMessageThreeLinesPlayer: {fileID: 5882345863546251228, guid: 5feb479e78957d24dad8e4c81e292d55, type: 3}
+  modelMessageImage: {fileID: 5771300449076592504, guid: c59f3a95cf190d34b8516c11de11ddf2, type: 3}
+  modelMessageImagePlayer: {fileID: 5882345863546251228, guid: 1d477c222cba4b54babd0673aa1774ba, type: 3}
+  imageFullSize: {fileID: 7975381667237745719, guid: 98c5399cc2ceb364289a1b9b515866dd, type: 3}
+  modelButtonHalfLine: {fileID: 463947755674503465, guid: 91d04283fc8de37408614eedb8771d9c, type: 3}
+  modelButtonOneLine: {fileID: 463947755674503465, guid: 10b3d1a6e92bb994dbfe3f1012165712, type: 3}
+  modelButtonTwoLines: {fileID: 463947755674503465, guid: 8caa164d9602d444c8fe9ccf20c25200, type: 3}
+  modelButtonThreeLines: {fileID: 463947755674503465, guid: bb28ad39fd02c0b4f873ab603c1a86d2, type: 3}
+  buttonsPanel: {fileID: 0}
+  messageConteiner: {fileID: 0}
+  buttonsConteiner: {fileID: 0}
+  zapPanel: {fileID: 0}
+  answerBar: {fileID: 0}
+  celularTime: []
+  feedBackText: {fileID: 0}
+  audioSource: {fileID: 0}
+  chatButton: {fileID: 0}
+  uiManager: {fileID: 0}
+  lineLength: 32
+  colors: []
+  messageSound: {fileID: 0}
+  volume: 0
+  saveManager: {fileID: 0}

@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Menu Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b1c9effae3a117b47a2289fd07a2c47a, type: 3}
+    - {fileID: 2800000, guid: df73e316ba8da374dbf96b50b599e4ce, type: 3}
+    - {fileID: 2800000, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+    totalSpriteSurfaceArea: 104905932
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 43b50b40c2882dc43981af7cd5820796, type: 3}
+  - {fileID: 21300000, guid: 8b99427182fabec40a22b57d416e75f7, type: 3}
+  - {fileID: 21300000, guid: 71585f81598191c43a4d3a906feaa90b, type: 3}
+  - {fileID: 21300000, guid: 48babb023c65957498cfb9f88d24554b, type: 3}
+  - {fileID: 21300000, guid: 6bba1d4268f596c4ab3b487fedb61fdf, type: 3}
+  - {fileID: 21300000, guid: 6b0fc492d657a5a4c9abac32a7359ef0, type: 3}
+  - {fileID: 21300000, guid: dba838e2cc4db934e87b82dd876f09a7, type: 3}
+  - {fileID: 21300000, guid: b2db71730168b6447ab8f160e2e46ff0, type: 3}
+  - {fileID: 21300000, guid: 24cc03248d5b86e47914981cf02fadc7, type: 3}
+  - {fileID: 21300000, guid: 071d54248ce2d0a42b9e29b6414b86cf, type: 3}
+  - {fileID: 21300000, guid: 733289545be89df41ab56374b2667788, type: 3}
+  - {fileID: 21300000, guid: e4a18a84734752a4cbe7642824bcb92e, type: 3}
+  - {fileID: 21300000, guid: 53d2e91531f02bb489235ae9e83251ac, type: 3}
+  - {fileID: 21300000, guid: 975035557e4b6f445b31960171435e4b, type: 3}
+  - {fileID: 21300000, guid: 04e8a565920006f499f9c5d650847b2a, type: 3}
+  - {fileID: 21300000, guid: 8850e1b501bead34e99d7c25e5d17a48, type: 3}
+  - {fileID: -299690340437171572, guid: df73e316ba8da374dbf96b50b599e4ce, type: 3}
+  - {fileID: 3357360333254942192, guid: df73e316ba8da374dbf96b50b599e4ce, type: 3}
+  - {fileID: -4297203505398261690, guid: df73e316ba8da374dbf96b50b599e4ce, type: 3}
+  - {fileID: 4202938828118557322, guid: df73e316ba8da374dbf96b50b599e4ce, type: 3}
+  - {fileID: 2189712646507832853, guid: df73e316ba8da374dbf96b50b599e4ce, type: 3}
+  - {fileID: -5166432130525955749, guid: df73e316ba8da374dbf96b50b599e4ce, type: 3}
+  - {fileID: 3876512272233767631, guid: df73e316ba8da374dbf96b50b599e4ce, type: 3}
+  - {fileID: -3297074023099518839, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 6285642476812893706, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 3945118950438566417, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 3862030546220045862, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 3142119126253467780, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 2304206393284512091, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: -2239436697100423742, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 7174117515479248346, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: -1871397213734680416, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 1786788084131541038, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 2581248697752071879, guid: e91be626fe08a504faae95ecc6a5bff9, type: 3}
+  - {fileID: 21300000, guid: ecb8bb762874cf743a0d2a0b6f86950a, type: 3}
+  - {fileID: 21300000, guid: 0d30b1c6cefae114196ac9ac83afb6ec, type: 3}
+  - {fileID: 21300000, guid: c8c2fb0724dc0ee4a9b4c3ef18aafc53, type: 3}
+  - {fileID: 21300000, guid: 4c71a297726d64143a8bee95952ebdf1, type: 3}
+  - {fileID: 21300000, guid: 5567980858ff8db448eb7d394c622f76, type: 3}
+  - {fileID: 21300000, guid: 4854a918ff669b246901f87dbc41502d, type: 3}
+  - {fileID: 21300000, guid: ab991b1835801234a8d48e26e8518e82, type: 3}
+  - {fileID: 21300000, guid: f5acc69869eca894199b72edbb3d068e, type: 3}
+  - {fileID: 21300000, guid: eb1aa8e819e6f9a4ca7ea1fa42ab14ce, type: 3}
+  - {fileID: 21300000, guid: ccdfdc09b81ca764f837689d65897087, type: 3}
+  - {fileID: 21300000, guid: 29fbf9e9136e34c4e9167f794d6de244, type: 3}
+  - {fileID: 21300000, guid: 6e0c83f94b26b104aa34cecb396053b0, type: 3}
+  - {fileID: 21300000, guid: 242b110a3bbe3f34a8256390f0647a2c, type: 3}
+  - {fileID: 21300000, guid: b41d630a42c80f147871a55935e2cf46, type: 3}
+  - {fileID: 21300000, guid: f3900a0aa1854774a90c0624af28fff7, type: 3}
+  - {fileID: 21300000, guid: b639cb0a1edaad743a78adb91885330b, type: 3}
+  - {fileID: 21300000, guid: c451df5ac407a114081d15f0ff9cfada, type: 3}
+  - {fileID: 21300000, guid: b587317ad9825c343a63eb4639edefae, type: 3}
+  - {fileID: 21300000, guid: 28f4599a09f01d148a1a239d4805c044, type: 3}
+  - {fileID: 21300000, guid: 3d1e7ada2117d45448ede22f7c0ac6f7, type: 3}
+  - {fileID: 21300000, guid: 2979a05b0000a2748a40970c1a7db4b0, type: 3}
+  - {fileID: 21300000, guid: 6a57157ba736ea04eb7c4ff9386dba1f, type: 3}
+  - {fileID: 21300000, guid: 8033a3bbed5610845aec12f646c9f48c, type: 3}
+  - {fileID: 21300000, guid: cd51fddb329af644b9a952c43b37210a, type: 3}
+  - {fileID: 21300000, guid: d72243dc03d315049866d6323ce967c6, type: 3}
+  - {fileID: 21300000, guid: 4306c6cd04fa35942bc8dee93b74553e, type: 3}
+  - {fileID: 21300000, guid: 6835f10ed01125c4d9482ea26e066d57, type: 3}
+  - {fileID: 21300000, guid: 515fef0efb2ac134e9a00728769366a8, type: 3}
+  - {fileID: 21300000, guid: be18215edea132140afa791159752b87, type: 3}
+  - {fileID: 21300000, guid: 0a7a016e63297484c8543f4dea2633cd, type: 3}
+  - {fileID: 21300000, guid: 72ac2a7eec6b1704f8db2af15fc2b102, type: 3}
+  - {fileID: 21300000, guid: 93c9c3ee7cd57a14d80170796da841b8, type: 3}
+  - {fileID: 21300000, guid: a24a100f62e21774494a3c6ba45d6df2, type: 3}
+  - {fileID: 21300000, guid: 58a4a90fbca5a0e4b99cfda9aeba7d0e, type: 3}
+  - {fileID: 21300000, guid: d9de8c2fd8a543040851c65ec47ba2f8, type: 3}
+  - {fileID: 21300000, guid: d7abb84f811837f44bbecac45bd04f0d, type: 3}
+  - {fileID: 21300000, guid: fe0467af49f540e49a15435fdf971f79, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - telas relato - 3
+  - telas relato - 4
+  - telas relato - 22
+  - telas relato - 10
+  - telas relato - 12
+  - telas relato - 19
+  - telas relato - 15
+  - telas relato - 29.2
+  - telas relato - 23
+  - telas relato - 21
+  - telas relato - 29 (textaralho)
+  - telas relato - 28.3
+  - telas relato - meu deus eu esqueci do i
+  - _ilhete
+  - nome
+  - foto_3
+  - icons_1
+  - icons_6
+  - icons_7
+  - icons_8
+  - icons_9
+  - icons_11
+  - icons_10
+  - o que falta - sprites_10
+  - o que falta - sprites_9
+  - o que falta - sprites_8
+  - o que falta - sprites_3
+  - o que falta - sprites_2
+  - o que falta - sprites_1
+  - o que falta - sprites_0
+  - o que falta - sprites_7
+  - o que falta - sprites_6
+  - o que falta - sprites_5
+  - o que falta - sprites_4
+  - telas relato - 1
+  - telas relato - dados
+  - telas relato - 28  (textaralho)
+  - telas relato - 30.3
+  - telas relato - 29.3
+  - telas relato - 13
+  - telas relato - 31.3
+  - telas relato - 30 (textaralho)
+  - telas relato - 14
+  - telas relato - 6
+  - telas relato - 17
+  - telas relato - 30.1
+  - telas relato - 29.1
+  - telas relato - 31.2
+  - telas relato - 31.4
+  - telas relato - 2
+  - telas relato - 24
+  - telas relato - 28.1
+  - telas relato - 25
+  - foto_1
+  - logo novo - basta
+  - telas relato - aviso
+  - foto_2
+  - telas relato - 27 (textaralho)
+  - telas relato - 8
+  - telas relato - 31 (textaralho)
+  - telas relato - 20
+  - telas relato - 7
+  - telas relato - 31.1
+  - telas relato - 18
+  - telas relato - 26 (textaralho)
+  - telas relato - 30.2
+  - telas relato - 5
+  - telas relato - 11
+  - telas relato - 28.2
+  - telas relato - 9
+  - telas relato - 16
+  m_Tag: Menu Atlas
+  m_IsVariant: 0

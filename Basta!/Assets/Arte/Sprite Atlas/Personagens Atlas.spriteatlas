@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Personagens Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c39fed65e1628864ca4507c6d9fb6161, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 12836a2032eaae24db1f5217603dc5bf, type: 3}
+  - {fileID: 21300000, guid: d91ea201394967642938f52f5a86dd5e, type: 3}
+  - {fileID: 21300000, guid: c8c89901c1da6534899211a86d27e78d, type: 3}
+  - {fileID: 21300000, guid: d8ac1db1069780a48990dfe5dddf20ab, type: 3}
+  - {fileID: 21300000, guid: e3175102d756eb74e8f5d32e8ca0dd23, type: 3}
+  - {fileID: 21300000, guid: c54e0532529593b40875d66688be19ce, type: 3}
+  - {fileID: 21300000, guid: 3c3e7c42940ab3346abbcf215e06de1f, type: 3}
+  - {fileID: 21300000, guid: a0a700921c03747468bce467fa7ac357, type: 3}
+  - {fileID: 21300000, guid: 470b7843a20c22c44aff7a85d0c4a361, type: 3}
+  - {fileID: 21300000, guid: f84bcbb3532824d4ca6bc9c130e7ae66, type: 3}
+  - {fileID: 21300000, guid: 7a3f26346e22df04ebd4669b7e04f43e, type: 3}
+  - {fileID: 21300000, guid: 7a88d754eb77a5143ab86655b6c20139, type: 3}
+  - {fileID: 21300000, guid: b2bbdd05448ec5a4cb2a0134c7677d99, type: 3}
+  - {fileID: 21300000, guid: bc5d4b4513aa37d4c9e747b2af881d5e, type: 3}
+  - {fileID: 21300000, guid: e05ad355ff2c64d44b027de605ab0d68, type: 3}
+  - {fileID: 21300000, guid: d324375571a4ed14f9160e612617da5f, type: 3}
+  - {fileID: 21300000, guid: fb210b753ae84b54bb22af4aca29454a, type: 3}
+  - {fileID: 21300000, guid: f6be3285c3272c34889b9d981d12a75c, type: 3}
+  - {fileID: 21300000, guid: d3ba4985c155ccf4eb4f94f0709a8132, type: 3}
+  - {fileID: 21300000, guid: e9668f952d356714195abccd0bf29e9d, type: 3}
+  - {fileID: 21300000, guid: 2a5af8b5258da4646a1bba65b3047bac, type: 3}
+  - {fileID: 21300000, guid: c251b156c28c8dd4883b7320ad5d8847, type: 3}
+  - {fileID: 21300000, guid: 29422f27ac18ad242a2bcf2bc17118ca, type: 3}
+  - {fileID: 21300000, guid: 0bf369a75f884cc45a4ec768c0c214c6, type: 3}
+  - {fileID: 21300000, guid: c5eb6a18ead62094bb18b0d1759206c0, type: 3}
+  - {fileID: 21300000, guid: 00e3ee284f2f79f47bb83af30473a27f, type: 3}
+  - {fileID: 21300000, guid: 44a2b948ea3d2a14bba4cde9355d51f4, type: 3}
+  - {fileID: 21300000, guid: 67cbfee82e149fe46b9ed3221870d47d, type: 3}
+  - {fileID: 21300000, guid: 4390f1097d0abcc4b9a80c0082025dff, type: 3}
+  - {fileID: 21300000, guid: d34cd00aacd336145819f908283b7f7a, type: 3}
+  - {fileID: 21300000, guid: 6ccb225aece939a4eb86fce9c0e4ba69, type: 3}
+  - {fileID: 21300000, guid: f2ab1e9a8a0d33a4ab261970e4651068, type: 3}
+  - {fileID: 21300000, guid: 4ff391bae036bda44a628855f5da8d5a, type: 3}
+  - {fileID: 21300000, guid: a17691baa53ab9f4e80cc6d68dd80303, type: 3}
+  - {fileID: 21300000, guid: a10d191bd6118f341b825119fc051dc7, type: 3}
+  - {fileID: 21300000, guid: bd55038bf92a09c4598bd38705a47690, type: 3}
+  - {fileID: 21300000, guid: d77edf9b5c77e9949b3a6e20c0b3dc79, type: 3}
+  - {fileID: 21300000, guid: 9924c91ce96d0204a8c5b7cda07d0111, type: 3}
+  - {fileID: 21300000, guid: a1456c2c367fc6a448e412d6a8ac57cf, type: 3}
+  - {fileID: 21300000, guid: e55f878c8791fea45b35e9df62a6c148, type: 3}
+  - {fileID: 21300000, guid: ba97fb8c603758f49ab192a93d6fbfdd, type: 3}
+  - {fileID: 21300000, guid: b18563dc97db39042ae5ba2a84108684, type: 3}
+  - {fileID: 21300000, guid: 5a34210d45ae92047a2c054c889db119, type: 3}
+  - {fileID: 21300000, guid: 4365574d7c5fe9246bae7579d5887ac4, type: 3}
+  - {fileID: 21300000, guid: bfcd668d05415ee41a1a7d35ead1a6eb, type: 3}
+  - {fileID: 21300000, guid: 71b4bf9df0b462b4b8a54530a053c5b6, type: 3}
+  - {fileID: 21300000, guid: 0a6104fd133582a43800026560a081f8, type: 3}
+  - {fileID: 21300000, guid: 160f762e3eeb3de4699b980f084b3781, type: 3}
+  - {fileID: 21300000, guid: 6574ac7eb61a6124995ab49eb17f7db1, type: 3}
+  - {fileID: 21300000, guid: cf8fa1eea1e60a74b9c218ca2aece9c7, type: 3}
+  - {fileID: 21300000, guid: 39dafb0fdab8ae747adde7e0c6dd925f, type: 3}
+  - {fileID: 21300000, guid: cbcafe1f6c947554c8fa6220accaa260, type: 3}
+  - {fileID: 21300000, guid: c2dccf8f31ba5e0499545b3b916759c4, type: 3}
+  - {fileID: 21300000, guid: 5140ff8fecbab134aab9f06bc5b3183c, type: 3}
+  - {fileID: 21300000, guid: c44496aff7fca7748871f62c66c63fc6, type: 3}
+  - {fileID: 21300000, guid: d6e0d7cfb821b08438fc6d7b1c28c77b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Pessoa aleatoria 10 icon
+  - Pessoa aleatoria 11 icon
+  - Menino icon PNG
+  - Gato aleatorio 1 icon
+  - Laura corpo inteiro PNG
+  - Pessoa aleatoria pro pinha2
+  - Pessoa aleatoria 19 icon (cthulhu)
+  - Pessoa aleatoria 28 icon
+  - Pessoa aleatoria 25 icon
+  - 2
+  - Pessoa aleatoria 4 icon PNG
+  - Pessoa aleatoria 8 icon
+  - 3
+  - Monica
+  - Icone 180 redondo
+  - 4
+  - Dona Rosana corpo inteiro PNG
+  - Pessoa aleatoria 4 icon
+  - Pessoa aleatoria pro mapa
+  - Pessoa aleatoria 12 icon
+  - Pessoa aleatoria 15 icon
+  - Pessoa aleatoria 14 icon (Pedro)
+  - Monica corpo inteiro PNG
+  - Pessoa aleatoria 13 icon
+  - Pessoa aleatoria 22 icon (Allan)
+  - Bubi
+  - Pessoa aleatoria 9 icon
+  - 5
+  - Gato aleatorio 2 icon
+  - Pessoa aleatoria 1 icon PNG
+  - 1
+  - Monica icon PNG
+  - Pessoa Aleatoria 3 PNG
+  - Pessoa aleatoria pinha4
+  - Luca
+  - Pessoa aleatoria 2 icon PNG
+  - Dona Rosana icon PNG
+  - Pessoa aleatoria 6 icon
+  - Laura icon PNG
+  - Pessoa aleatoria 16 icon
+  - Pessoa aleatoria 18 icon
+  - Pessoa aleatoria 5 icon
+  - Pessoa aleatoria 23 icon
+  - Julia corpo inteiro PNG
+  - Pessoa aleatoria 20 icon
+  - Pessoa aleatoria 26 icon
+  - Pessoa aleatoria 7 icon
+  - Icone pet shop 1 redondo
+  - Pessoa aleatoria 27 icon
+  - Menino corpo inteiro PNG
+  - Pessoa aleatoria 21 icon
+  - Pessoa aleatoria 5 icon PNG
+  - Pessoa aleatoria 17 icon (Logan)
+  - Pessoa aleatoria 24 icon
+  - Julia icon Png
+  - Pessoa aleatoria pro Pinha3
+  m_Tag: Personagens Atlas
+  m_IsVariant: 0
