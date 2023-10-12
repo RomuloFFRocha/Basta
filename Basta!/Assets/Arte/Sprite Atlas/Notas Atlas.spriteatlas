@@ -40,6 +40,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 1
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 7f0f8d7ba4f488a448b3a5cfcb17d14b, type: 3}
@@ -63,5 +64,6 @@ SpriteAtlas:
   - notas sprites_0
   - notas sprites_3
   - notas sprites_2
+  m_RenderDataMap: {}
   m_Tag: Notas Atlas
   m_IsVariant: 0

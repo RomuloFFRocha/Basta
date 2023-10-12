@@ -40,6 +40,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 1
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 77d5eccce8aa0fa4ea3044aa4b8f0fdc, type: 3}
@@ -110,5 +111,6 @@ SpriteAtlas:
   - breja 3
   - "n\xE3o se cale"
   - Fotos - Poster de Filme
+  m_RenderDataMap: {}
   m_Tag: Photogram Atlas
   m_IsVariant: 0

@@ -40,6 +40,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: a9139b7cae34e5d40bb0215545a08164, type: 3}
@@ -116,5 +117,6 @@ SpriteAtlas:
   - pnginsta_4
   - pnginsta_5
   - rosana
+  m_RenderDataMap: {}
   m_Tag: Zap Atlas
   m_IsVariant: 0

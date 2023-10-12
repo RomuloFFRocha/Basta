@@ -52,6 +52,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 781147ef1697b01469301802b416cbaa, type: 3}
@@ -230,5 +231,6 @@ SpriteAtlas:
   - texto_voltar
   - grupo_vida5_qual_seu_celular
   - grupo_meme4_go
+  m_RenderDataMap: {}
   m_Tag: Post Atlas
   m_IsVariant: 0

@@ -40,6 +40,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: c39fed65e1628864ca4507c6d9fb6161, type: 3}
@@ -161,5 +162,6 @@ SpriteAtlas:
   - Pessoa aleatoria 24 icon
   - Julia icon Png
   - Pessoa aleatoria pro Pinha3
+  m_RenderDataMap: {}
   m_Tag: Personagens Atlas
   m_IsVariant: 0

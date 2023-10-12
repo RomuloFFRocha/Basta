@@ -40,6 +40,7 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 1
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: ed2705ef58c5a944dac4bb18fb473bda, type: 3}
@@ -210,5 +211,6 @@ SpriteAtlas:
   - monica print
   - fotos - abndera
   - 73
+  m_RenderDataMap: {}
   m_Tag: Galeria Atlas
   m_IsVariant: 0
